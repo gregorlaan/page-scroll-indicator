@@ -1,6 +1,8 @@
 # Page Scroll Indicator
 Simple Page Scroll Indicator based on Vanilla JS
 
+[Live Preview](https://gregorlaan.github.io/page-scroll-indicator/)
+
 ## How To Use
 
 Include the script file: pageScrollIndicator.js
